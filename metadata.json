@@ -1,0 +1,6 @@
+{
+  "name": "Palvit Photobooth",
+  "description": "Conversion-focused and SEO-engineered website for Palvit Photobooth — offering 360 video booths, Magic Mirror, and DSLR photo strip rentals across Mumbai, Pune, and Goa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
